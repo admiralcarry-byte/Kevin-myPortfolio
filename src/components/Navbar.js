@@ -3,7 +3,6 @@ import { Link } from "react-scroll";
 import { BiMenu } from "react-icons/bi";
 import { MdClose } from "react-icons/md";
 import Navlinks from "../data/navlinks";
-import ProfileData from "../data/profile";
 import ContactModal from "./ContactModal";
 
 const Navbar = () => {
