@@ -1,6 +1,6 @@
 const ProfileData = {
   img: require("../assets/Images/hero.png"),
-  logo: require("../assets/Images/Name.png"),
+  logo: require("../assets/Images/hero.png"),
   name: "Kevin Will",
   professions: ["Passionate developer", "Software Engineer", "Senior Full Stack Developer"],
   info: [
