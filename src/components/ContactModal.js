@@ -38,7 +38,7 @@ const ContactModal = ({ isOpen, onClose }) => {
             </div>
             <div>
               <p className="text-sm text-gray-500 uppercase tracking-wide font-medium">Telegram</p>
-              <p className="text-lg font-semibold text-gray-800">@quin1410</p>
+              <p className="text-lg font-semibold text-gray-800">@kevinwill1998</p>
             </div>
           </div>
           
